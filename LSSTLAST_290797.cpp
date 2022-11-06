@@ -1,11 +1,3 @@
-/// In the name of GOD:
-///01/03/1395  Ya Ali Madad!
-///05/06/95 Adineh
-///08/06/96 including blending, cmd for all stars are made
-///CMD of besancon is replaced!!! Checked all functions!!!
-/// 11/06/96: the last inspectation!!!
-///20/06/96: 
-///24/08/96, 09/09/96/ \ /19/12/96
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
